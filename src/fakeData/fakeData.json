@@ -1,0 +1,182 @@
+[  
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "birth": "Mar 24, 1987 (33 years)",
+    "birthPlace": "Magura, Jessore",
+    "role": "Batting Allrounder",
+    "battingStyle": "Left Handed Bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "salary": 1600,
+    "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893396-e1520011475170.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Mahmudullah",
+    "birth": "Feb 4, 1986 (35 years)",
+    "birthPlace": "Mymensingh",
+    "role": "All-rounder",
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Off Spin",
+    "salary": 1167,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/5/3555.1506323472.jpg"
+  },
+  
+  {
+    "id": 3,
+    "name": "Soumya Sarkar",
+    "birth": "Feb 25, 1993 (28 years)",
+    "birthPlace": "Satkhira",
+    "role": "All-rounder",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right Arm Medium Seam",
+    "salary": 1297,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/5570.1506323939.jpg"
+  },
+  
+  {
+    "id": 4,
+    "name": "Tamim Iqbal",
+    "birth": "Mar 20, 1989 (32 years)",
+    "birthPlace": "Chittagong",
+    "role": "Batsman",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right Arm Off Spin",
+    "salary": 1560,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/7/3497.1506324086.jpg"
+  },
+  
+  {
+    "id": 5,
+    "name": "Mohammad Mithun",
+    "birth": "Mar 2, 1991 (30 years)",
+    "birthPlace": "Bangladesh",
+    "role": "Wicket Keeper",
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Medium Seam",
+    "salary": 1153,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/8/4488.1559279480.jpg"
+  },
+  
+  {
+    "id": 6,
+    "name": "Mushfiqur Rahim",
+    "birth": "Jun 9, 1987 (34 years)",
+    "birthPlace": "Bogra",
+    "role": "Wicket Keeper",
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Left Arm Orthodox",
+    "salary": 1489,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/9/3279.1506323675.jpg"
+  },
+  
+  {
+    "id": 7,
+    "name": "Mustafizur Rahman",
+    "birth": "Sep 6, 1995 (26 years)",
+    "birthPlace": "Satkhira",
+    "role": "Bowler",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Left Arm Fast Seam",
+    "salary": 1470,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/2/6752.1506323718.jpg"
+  },
+  
+  {
+    "id": 8,
+    "name": "Taskin Ahmed",
+    "birth": "Apr 3, 1995 (26 years)",
+    "birthPlace": "Dhaka",
+    "role": "Bowler",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right Arm Fast Seam",
+    "salary": 1345,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/3/5563.1506324115.jpg"
+  },
+  
+  {
+    "id": 9,
+    "name": "Liton Das",
+    "birth": "Oct 13, 1994 (27 years)",
+    "birthPlace": "Dinajpur",
+    "role": "Wicket Keeper",
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Medium Seam",
+    "salary": 1320,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/7/5567.1506323355.jpg"
+  },
+  
+  {
+    "id": 10,
+    "name": "Al-Amin Hossain",
+    "birth": "Jan 1, 1990 (31 years)",
+    "birthPlace": "Jhenidah",
+    "role": "Bowler",
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Fast Seam",
+    "salary": 1263,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/7/6757.1571725264.jpg"
+  },
+  
+  {
+    "id": 11,
+    "name": "Mohammad Saifuddin",
+    "birth": "Nov 1, 1996 (25 years)",
+    "birthPlace": "Feni",
+    "role": "All-rounder",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right Arm Medium Seam",
+    "salary": 1416,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/1/6751.1559279894.jpg"
+  },
+  
+  {
+    "id": 12,
+    "name": "Mehedi Hasan",
+    "birth": "Oct 25, 1997 (24 years)",
+    "birthPlace": "Khulna",
+    "role": "All-rounder",
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Off Spin",
+    "salary": 1070,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/6750.1506323385.jpg"
+  },
+  
+  {
+    "id": 13,
+    "name": "Rubel Hossain",
+    "birth": "Jan 1, 1990 (31 years)",
+    "birthPlace": "",
+    "role": "Bowler",
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Fast Seam",
+    "salary": 1287,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/4040.1506323400.jpg"
+  },
+  
+  {
+    "id": 14,
+    "name": "Mosaddek Hossain",
+    "birth": "Dec 10, 1995 (26 years)",
+    "birthPlace": "Mymensingh",
+    "role": "Middle Order Batsman",
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Off Spin",
+    "salary": 1372,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/5560.1506323656.jpg"
+  },
+
+  {
+    "id": 15,
+    "name": "Afif Hossain",
+    "birth": "Sep 22, 1999 (22 years)",
+    "birthPlace": "Khulna",
+    "role": "All-rounder",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right Arm Off Spin",
+    "salary": 1200,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/10830.1571724978.jpg"
+  }
+  
+]

@@ -1,0 +1,47 @@
+.name {
+  font-size: 1.01rem;
+  font-weight: 700;
+}
+
+.icon {
+  color: #555;
+  font-size: 0.9rem;
+  margin-right: 5px;
+}
+
+.card-body p {
+  color: black;
+  margin-bottom: 8px;
+}
+
+.add-btn {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-size: 1rem;
+  padding: 7px 11px;
+  color: white;
+  background-color: #8e44ad;
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.add-btn .icon {
+  color: white;
+}
+
+.add-btn:hover {
+
+  background-color: #70308b;
+}
+
+.add-btn:focus {
+  outline: none;
+  background-color: #a655c9d2;
+}
+
+.disabled {
+    pointer-events: none;
+    background: #a655c9d2;
+}
